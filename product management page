@@ -1,0 +1,190 @@
+<div class="container product-benifit" style="font-family: Roboto Condensed;">
+  <div class="row">    
+     <!-------------------- BLOCK -------------------->    
+    <div class="col-md-6" style="margin-bottom:15px;margin-top:15px;">
+      <div class="row">
+        <div class="col-4 col-md-2">
+        <!-- IMAGE -->
+        <img src="https://contents-spid.decathlon.net/pictoBu/42/bb/42bb2d05-c8f0-45c4-8237-8467c80ddbc8.jpg" class="img img-fluid"  style="max-height:70px; max-width:70px;" alt="PICTO">
+        <!-- IMAGE -->
+        </div>
+        <div class="col-8 col-md-10" style="align-self: flex-end;">
+          <h4 class="text-left" style="color: #0082C3; font-weight: 600; text-transform: uppercase;">            
+            <!-- HEADER -->
+            Durability
+            <!-- HEADER -->            
+          </h4>
+          <p class="text-left" style="font-size:14px">            
+            <!-- DESCRIPTION -->
+            The plastic skirt makes for a long-lasting shuttle.
+            <!-- DESCRIPTION -->            
+          </p>
+        </div>
+      </div>
+    </div>    
+    <!-------------------- BLOCK -------------------->
+    
+    <!-------------------- BLOCK -------------------->    
+    <div class="col-md-6" style="margin-bottom:15px;margin-top:15px;">
+      <div class="row">
+        <div class="col-4 col-md-2">
+        <!-- IMAGE -->
+        <img src="https://contents-spid.decathlon.net/pictoBu/d9/c2/d9c28e75-9c6a-4f89-98a0-276f15deee99.jpg" class="img img-fluid"  style="max-height:70px; max-width:70px;" alt="PICTO">
+        <!-- IMAGE -->
+        </div>
+        <div class="col-8 col-md-10" style="align-self: flex-end;">
+          <h4 class="text-left" style="color: #0082C3; font-weight: 600; text-transform: uppercase;">
+            <!-- HEADER -->
+            Control
+            <!-- HEADER -->            
+          </h4>
+          <p class="text-left" style="font-size:14px">
+            <!-- DESCRIPTION -->
+            The plastic skirt allows you to achieve stable trajectories.
+            <!-- DESCRIPTION -->            
+          </p>
+        </div>
+      </div>
+    </div>
+    <!-------------------- BLOCK -------------------->
+    		
+		<!-------------------- BLOCK -------------------->    
+    <div class="col-md-6" style="margin-bottom:15px;margin-top:15px;">
+      <div class="row">
+        <div class="col-4 col-md-2">
+        <!-- IMAGE -->
+        <img src="https://contents-spid.decathlon.net/pictoBu/5e/3a/5e3ad9dc-a2ce-45d8-bd07-afcf6bf3f0a1.jpg" class="img img-fluid"  style="max-height:70px; max-width:70px;" alt="PICTO">
+        <!-- IMAGE -->
+        </div>
+        <div class="col-8 col-md-10" style="align-self: flex-end;">
+          <h4 class="text-left" style="color: #0082C3; font-weight: 600; text-transform: uppercase;">
+            <!-- HEADER -->
+            User comfort
+            <!-- HEADER -->            
+          </h4>
+          <p class="text-left" style="font-size:14px">
+            <!-- DESCRIPTION -->
+            The foam tip offers good impact comfort for beginners.
+            <!-- DESCRIPTION -->            
+          </p>
+        </div>
+      </div>
+    </div>
+    <!-------------------- BLOCK -------------------->
+		<!-------------------- BLOCK -------------------->    
+    <div class="col-md-6" style="margin-bottom:15px;margin-top:15px;">
+      <div class="row">
+        <div class="col-4 col-md-2">
+        <!-- IMAGE -->
+        <img src="https://contents-spid.decathlon.net/pictoBu/ce/ef/ceef4fde-3eaa-4b66-a4b0-ed139ccb5fd0.jpg" class="img img-fluid"  style="max-height:70px; max-width:70px;" alt="PICTO">
+        <!-- IMAGE -->
+        </div>
+        <div class="col-8 col-md-10" style="align-self: flex-end;">
+          <h4 class="text-left" style="color: #0082C3; font-weight: 600; text-transform: uppercase;">
+            <!-- HEADER -->
+            darkness
+            <!-- HEADER -->            
+          </h4>
+          <p class="text-left" style="font-size:14px">
+            <!-- DESCRIPTION -->
+            UPF 30 fabric: lets in daylight and filters out some UV rays.
+            <!-- DESCRIPTION -->            
+          </p>
+        </div>
+      </div>
+    </div>
+    <!-------------------- BLOCK -------------------->
+		<!-------------------- BLOCK -------------------->    
+    <div class="col-md-6" style="margin-bottom:15px;margin-top:15px;">
+      <div class="row">
+        <div class="col-4 col-md-2">
+        <!-- IMAGE -->
+        <img src="https://contents-spid.decathlon.net/pictoBu/16/80/168032e9-2d85-462e-a89d-d1f2685ad1b7.jpg" class="img img-fluid"  style="max-height:70px; max-width:70px;" alt="PICTO">
+        <!-- IMAGE -->
+        </div>
+        <div class="col-8 col-md-10" style="align-self: flex-end;">
+          <h4 class="text-left" style="color: #0082C3; font-weight: 600; text-transform: uppercase;">
+            <!-- HEADER -->
+            waterproof
+            <!-- HEADER -->            
+          </h4>
+          <p class="text-left" style="font-size:14px">
+            <!-- DESCRIPTION -->
+            Tropical rain laboratory test | Under shower: 200 L of water per hour per sqm.
+            <!-- DESCRIPTION -->            
+          </p>
+        </div>
+      </div>
+    </div>
+    <!-------------------- BLOCK -------------------->
+		<!-------------------- BLOCK -------------------->    
+    <div class="col-md-6" style="margin-bottom:15px;margin-top:15px;">
+      <div class="row">
+        <div class="col-4 col-md-2">
+        <!-- IMAGE -->
+        <img src="https://contents-spid.decathlon.net/pictoBu/a2/11/a211ff35-8c00-4934-bac8-1cee4a69d33c.jpg" class="img img-fluid"  style="max-height:70px; max-width:70px;" alt="PICTO">
+        <!-- IMAGE -->
+        </div>
+        <div class="col-8 col-md-10" style="align-self: flex-end;">
+          <h4 class="text-left" style="color: #0082C3; font-weight: 600; text-transform: uppercase;">
+            <!-- HEADER -->
+            wind resistance
+            <!-- HEADER -->            
+          </h4>
+          <p class="text-left" style="font-size:14px">
+            <!-- DESCRIPTION -->
+            Withstands force 6 winds - around 50 km/h | Wind tunnel test.
+            <!-- DESCRIPTION -->            
+          </p>
+        </div>
+      </div>
+    </div>
+    <!-------------------- BLOCK -------------------->
+		<!-------------------- BLOCK -------------------->    
+    <div class="col-md-6" style="margin-bottom:15px;margin-top:15px;">
+      <div class="row">
+        <div class="col-4 col-md-2">
+        <!-- IMAGE -->
+        <img src="https://contents-spid.decathlon.net/pictoBu/c4/82/c482b5fa-4398-416d-b6d9-8e089106d8d4.jpg" class="img img-fluid"  style="max-height:70px; max-width:70px;" alt="PICTO">
+        <!-- IMAGE -->
+        </div>
+        <div class="col-8 col-md-10" style="align-self: flex-end;">
+          <h4 class="text-left" style="color: #0082C3; font-weight: 600; text-transform: uppercase;">
+            <!-- HEADER -->
+            easy transport
+            <!-- HEADER -->            
+          </h4>
+          <p class="text-left" style="font-size:14px">
+            <!-- DESCRIPTION -->
+            Cylindrical cover | 57 x 23 cm | 30 litres | 6.7 kg.
+            <!-- DESCRIPTION -->            
+          </p>
+        </div>
+      </div>
+    </div>
+    <!-------------------- BLOCK -------------------->
+				<!-------------------- BLOCK -------------------->    
+    <div class="col-md-6" style="margin-bottom:15px;margin-top:15px;">
+      <div class="row">
+        <div class="col-4 col-md-2">
+        <!-- IMAGE -->
+        <img src="https://contents-spid.decathlon.net/pictoBu/75/2b/752b78b6-313a-4155-8f42-94254756977d.jpg" class="img img-fluid"  style="max-height:70px; max-width:70px;" alt="PICTO">
+        <!-- IMAGE -->
+        </div>
+        <div class="col-8 col-md-10" style="align-self: flex-end;">
+          <h4 class="text-left" style="color: #0082C3; font-weight: 600; text-transform: uppercase;">
+            <!-- HEADER -->
+            Ventilation
+            <!-- HEADER -->            
+          </h4>
+          <p class="text-left" style="font-size:14px">
+            <!-- DESCRIPTION -->
+            4 pads for simple back ventilation.
+            <!-- DESCRIPTION -->            
+          </p>
+        </div>
+      </div>
+    </div>
+    <!-------------------- BLOCK -------------------->
+  </div>
+</div>
